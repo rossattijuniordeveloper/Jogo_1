@@ -1,0 +1,2 @@
+android.app.Application
+Jogo_1.Jogo_1
