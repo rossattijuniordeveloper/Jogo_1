@@ -1,0 +1,30 @@
+
+-- thx@1138github
+
+https://github.com/rossattijuniordeveloper/Micro_Forum_WF.git
+https://github.com/rossattijuniordeveloper/MicroForum_Net.git
+https://github.com/rossattijuniordeveloper/MicroForum_NetCore.git
+
+
+git clone https://github.com/rossattijuniordeveloper/Micro_Forum_WF.git
+git config --global user.email "rossattijuniordeveloper@gmail"
+git config --global user.name "rossattijuniordeveloper"
+git init
+// no primeiro login do projeto tem digitar:
+	git remote add origin https://github.com/rossattijuniordeveloper/MicroForum_WF
+	usuario: rossattijuniordeveloper senha:thx@1138github
+
+// das outras vezes somente:
+git add github.txt
+git commit -m "adicionou o arquivo github.txt"
+git push origin master
+
+git add . // subindo todos os arquivos
+git commit -m "alguma explicação"
+git push origin master
+
+git remote add origin https://github.com/rossattijuniordeveloper/MicroForum_WF
+usuario: rossattijuniordeveloper senha:thx@1138github
+
+
+
